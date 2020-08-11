@@ -1,0 +1,57 @@
+#casita{
+    position: relative;
+    bottom: -17px;
+}
+
+
+#tituloesqui{
+    color: darkblue;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+
+#iconwasa{
+    position: fixed;
+    left: 1180px;
+    bottom: 400px;
+
+}
+
+#imgenfe1{
+    position: relative;
+    bottom: -100px;
+    left: 30px;
+   
+}
+
+
+#titulotras{
+    color: darkblue;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+
+.textfooter{
+    
+    padding-top: 8px;
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    background-color:#2E2F2E;
+    height: 80px;
+             }
+
+.ajusteicono{
+
+    display: inline-flex;
+    margin: 50px 35px;
+            }
+
+.iconosredes{
+
+    text-align: center;
+             }
